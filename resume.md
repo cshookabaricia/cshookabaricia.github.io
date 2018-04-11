@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/cshookabaricia/cshookabaricia.github.io/master/picture.jpg" width="200px">
 
 -------------------     ----------------------------
+
 | Location                | Contact                                     |
-| ---------------------- | ------------------------------------------ |
+| ----------------------  | ------------------------------------------  |
 | Portland, OR            | shookch@oregonstate.edu                     |
 | 45.5231° N, 122.6765° W | https://www.linkedin.com/in/cshookabaricia/ |
 
