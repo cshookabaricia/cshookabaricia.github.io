@@ -1,3 +1,3 @@
 # cshookabaricia.github.io
 
--Repository for GEOG 472 Course Work-
+-Repository for Personal Projects-
